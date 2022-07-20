@@ -1,8 +1,13 @@
-h1{
+body {
+    background-color: black;
+    color: green;
+}
+
+/* h1{
     background-color: black;
     color: green;
 }
 h2 {
     background-color: black;
     color: green;
-}
+} */
